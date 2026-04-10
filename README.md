@@ -1,11 +1,11 @@
 # 👨‍💻 Matheus Vinicius
 
 ```csharp
-public class BackendDeveloper
+public class DotNetDeveloper
 {
     public string Name => "Matheus Vinicius";
-    public string Role => "Backend Developer";
-    public string Stack => ".NET, C#, PostgreSQL, SQL Server";
+    public string Role => ".NET Developer";
+    public string Stack => ".NET, C#, PostgreSQL, SQL Server, React";
     public string Cloud => "AWS (ECS, RDS, ECR)";
     public string Focus => "APIs, Clean Architecture, scalable backend systems";
     public string Goal => "Remote opportunities and international growth";
@@ -19,7 +19,8 @@ Backend developer focused on building robust APIs, scalable systems and real-wor
 ## 🚀 Tech Stack
 
 * **Languages:** C#
-* **Frameworks:** .NET 8, ASP.NET Core
+* **Frameworks Backend:** .NET 8, ASP.NET Core
+* **Frameworks Frontend:** React, Blazor
 * **Databases:** PostgreSQL, SQL Server
 * **ORMs:** Entity Framework Core, Dapper
 * **Architecture:** Clean Architecture, CQRS
@@ -39,6 +40,10 @@ Backend developer focused on building robust APIs, scalable systems and real-wor
 ---
 
 ## 📌 Featured Projects
+
+### 🧠 RootFlow
+
+AI-powered assistant platform using RAG with **.NET 9**, **PostgresSQL** + **pgvector**, **TypeScript/React**, **Docker**, **RAG**, **OpenAI API**
 
 ### 🏥 MedlyCare
 
